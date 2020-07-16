@@ -1,0 +1,66 @@
+.c1{margin-top:25px ;
+    margin-left:35px ;
+}
+img{
+    
+height: 250px;
+width: 190px;
+border-radius:15px;
+} 
+.post{
+cursor: pointer;
+
+
+
+
+
+}
+
+.post:hover .post-s{
+    height: 250px;
+
+
+}
+
+.post-s
+{
+height: 0px;
+width: 190px;
+position: absolute;
+background-color: #00fbfb96;
+border-radius:15px;
+display: flex;
+margin-left:35px;
+top: 0;
+margin-top: 25px;
+justify-content: center;
+text-align: center;
+transition: 0.9s ease;
+overflow: hidden;
+}
+
+
+
+.post-s h3{
+color:white;
+font-size: 25px;
+border: 3px solid white;
+padding: 10px 30px;
+
+}
+
+.act{
+text-decoration: none;
+color:#422113 ;
+font-size:20px ;
+border:2px solid white;
+}
+
+h4{
+    
+    margin-left:100px ;
+
+
+
+
+}
